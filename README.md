@@ -1,7 +1,7 @@
 #### Hi 👋I am PRYANSHU RATHOUR
 
 
-**Pryanshu963/Pryanshu963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                              MERN Stack developer
 
 - 🌱 I’m currently learning Full Stack Development
 - Ask me About C++,HTML,CSS,JavaScript,NodeJs,React,ExpressJs,MongoDB,SOL.
