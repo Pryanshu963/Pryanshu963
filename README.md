@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://e-portfolio-puce.vercel.app/](https://e-portfolio-puce.vercel.app/)
 
-- 💬 Ask me about **Ask me About C++,HTML,CSS,JavaScript,NodeJs,React,ExpressJs,MongoDB,SOL.**
+- 💬 Ask me about ** C++,HTML,CSS,JavaScript,NodeJs,React,ExpressJs,MongoDB,SOL.**
 
 - 📫 How to reach me **pryanshurathour475@gmail.com**
 
