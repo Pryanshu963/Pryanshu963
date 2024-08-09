@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRYANSHU RATHOUR</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://e-portfolio-puce.vercel.app/](https://e-portfolio-puce.vercel.app/)
 
